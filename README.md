@@ -11,6 +11,7 @@ You need to copy images from the [challenge](https://app.trustii.io/datasets/153
     │
     ├── data
     │   ├── images_cytologia
+    │   ├── background_images.csv
     │   ├── train.csv
     │   └── test.csv
     │
